@@ -105,7 +105,7 @@ sony-clone/
 1. **Clone the repository**
 
 ```id="pj6r66"
-git clone https://github.com/your-username/sony-clone.git
+git clone https://github.com/anshp2931-gif/sony-clone.git
 ```
 
 2. **Navigate to the project folder**
